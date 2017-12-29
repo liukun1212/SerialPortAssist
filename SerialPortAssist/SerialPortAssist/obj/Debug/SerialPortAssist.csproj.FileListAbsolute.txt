@@ -1,0 +1,9 @@
+D:\test\SerialPortAssist\SerialPortAssist\bin\Debug\SerialPortAssist.exe.config
+D:\test\SerialPortAssist\SerialPortAssist\bin\Debug\SerialPortAssist.exe
+D:\test\SerialPortAssist\SerialPortAssist\bin\Debug\SerialPortAssist.pdb
+D:\test\SerialPortAssist\SerialPortAssist\obj\Debug\SerialPortAssist.Properties.Resources.resources
+D:\test\SerialPortAssist\SerialPortAssist\obj\Debug\SerialPortAssist.csproj.GenerateResource.Cache
+D:\test\SerialPortAssist\SerialPortAssist\obj\Debug\SerialPortAssist.exe
+D:\test\SerialPortAssist\SerialPortAssist\obj\Debug\SerialPortAssist.pdb
+D:\test\SerialPortAssist\SerialPortAssist\obj\Debug\SerialPortAssist.MainForm.resources
+D:\test\SerialPortAssist\SerialPortAssist\obj\Debug\SerialPortAssist.csprojResolveAssemblyReference.cache
